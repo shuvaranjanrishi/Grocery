@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/USER/StudioProjects/Grocery/app/src/main/res/drawable/ic_baseline_mail_outline_24.xml" value="0.10648148148148148" />
+        <entry key="..\:/Users/USER/StudioProjects/Grocery/app/src/main/res/drawable/ic_key_gray.xml" value="0.10648148148148148" />
+        <entry key="..\:/Users/USER/StudioProjects/Grocery/app/src/main/res/drawable/ic_key_white.xml" value="0.10648148148148148" />
+        <entry key="..\:/Users/USER/StudioProjects/Grocery/app/src/main/res/drawable/shape_rect01.xml" value="0.10648148148148148" />
+        <entry key="..\:/Users/USER/StudioProjects/Grocery/app/src/main/res/layout/activity_login.xml" value="0.1" />
         <entry key="..\:/Users/USER/StudioProjects/Grocery/app/src/main/res/layout/activity_main.xml" value="0.1766304347826087" />
       </map>
     </option>
